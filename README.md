@@ -1,2 +1,3 @@
 # find_similar_image
-python script to find image by fragment of the original (works with flipped image too)
+Fast python script to find image by fragment of the original (works with flipped image too)
+Made to work with folders with many ... i mean... many files
